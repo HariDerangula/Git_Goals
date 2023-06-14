@@ -1,0 +1,12 @@
+Why we use docker?
+
+Docker makes it really easy to install and run software without worrying about setup or dependencies.
+
+Image:
+
+An image is a single file containing all the dependencies and configurations required to run a simple program.
+
+Container:
+
+An instance of an image
+
