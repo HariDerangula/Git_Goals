@@ -1,0 +1,38 @@
+Creditcard  202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:creditcard-v13
+CCBGJOBS   202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:ccbgjobs-v10
+IndividualLoan  202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:individualloan-v8.8
+PLBGJOBS  202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:plbgjobs-v8
+DLP UI   202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:angular-v13
+
+
+
+
+
+Creditcard-172.31.3.170Creditcard-
+Creditcard-172.31.3.70-PROD
+Creditcard-172.31.4.134-PROD
+Creditcard-172.31.4.170-PROD
+ 
+ 
+ Creditcard-172.31.3.56-PROD
+ 
+ 
+Creditcard-172.31.4.58-PROD
+Creditcard-172.31.3.13-PROD
+Creditcard-172.31.3.82-PROD
+Creditcard-172.31.4.29-PROD
+
+
+
+202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:creditcard-v17
+202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:ccbgjobs-v13
+202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:individualloan-v9
+202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:plbgjobs-v11 
+202962921096.dkr.ecr.ap-south-1.amazonaws.com/ibl-ms-prod:plcc-ui-v20
+
+
+
+Creditcard-172.31.4.214-PROD
+Creditcard-172.31.3.59-PROD
+Creditcard-172.31.4.45-PROD
+Creditcard-172.31.3.238-PROD

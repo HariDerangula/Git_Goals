@@ -1,0 +1,28 @@
+Service Name                                         Task Defination
+===============                          ====================
+                                            APIGateway:80
+Creditcard - com                                                 Creditcard:93
+BRE   -com                                                                BRE:17
+plbgjobs  -com                                                     plbgjobs:12
+CCPartner  -com                                                   CCPartner:10
+Dashboard -com                                                   Dashboard:12
+Test-SD-IP                                                     ServiceDiscovery:23
+GST-CJ   -com                                                       GST-CJ:12
+Individualloan                                             Individualloan:85
+STBL-UI    -com                                                         STBL-UI:31
+ccbgjobs    -com                                                        ccbgjobs:24
+APIGateway -com                                      APIGateway:91
+GST   -com                                                                 GST:43
+DMS -com                                                                  DMS:18
+MIS  -com                                                                   MIS:20
+SD1                                                                   Test:24
+Evoke    -com                                                          Evoke:9
+PLCC-UI   -com                                                       PLCC-UI:47
+WebServer-GRID  -com                                     Angular:101
+UM  -com                                                          UM:87
+Test-SD                                                          Test-SD:2
+EFS-Test                                                        Test:23
+Workflow -com                                                  Workflow:44
+STBL     -com                                                           STBL1:24
+Perfios -com                                                             perfios:21
+Cibilcommercial      -com                                      Cibilcommercial:8
